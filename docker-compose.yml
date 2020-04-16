@@ -1,0 +1,21 @@
+version: '3.7'
+#
+services:
+  irissvc:
+    build:
+      context: ./build
+      args:
+        COMMIT_ID: isjdemo
+    image: wolfman0719/isjbusiness:demo
+    container_name: isjdemo
+    init: true
+    hostname: myiris
+    
+    ports:
+    # superserver default port 
+    - "51777:51773"
+    # webserver/management portal port
+    - "52777:52773"
+    
+    environment:
+    - TZ=JST-9

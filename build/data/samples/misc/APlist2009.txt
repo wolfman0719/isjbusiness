@@ -1,0 +1,97 @@
+1	AP047	N	N	D	N04		"Alto Academy, Inc."	Kumomi	Yoshitani	Sugita	Yoshitani	Kumomi	Kumomi	Kumomi	Kumomi	Sato	0%	0%	0%						04/01/04	04/01/05					04/01/10	○	JapRule1	○																										
+2	AP090	N	N	N	N06		"ARC International Co., Ltd."		Yakushiji		Yakushiji	Yakushiji	Yakushiji	Yakushiji	Yakushiji	Furuzono	0%	0%	0%								07/10/06				07/10/11	○	JapRule1	○	?																									
+3	AP101		N	N	N07	Y	AVANCER					Oda	Kumomi	Kumomi	Kumomi	Minamoto	0%	0%	0%									10/01/07			10/01/12	○	JapRule1	○																										
+4	AP009	D	D	D			Bell Capsule Takasaki	Kumomi	Yoshitani	Sato	Yoshitani	Kumomi	Kumomi	Kumomi	Kumomi	Sato	0%	0%	0%		0%	0%	0%	05/15/03	05/15/04	05/15/05					05/15/10	○	JapRule1	N/A																										
+5	AP085	N	N	N	N06	Y	Big Valley International Inc.		Oda		Oda	Oda	Kumomi	Kumomi	Kumomi	Sato	0%	0%	0%								02/01/06				02/01/11	○	JapRule1	○	14																									
+6	AP010	D	D	D		Y	CAI SYSTEM Corporation	Oda	Kumomi	Horita	Kumomi	Kumomi	Kumomi	Kumomi	Kumomi	Sato	0%	0%	0%		0%	0%	0%	04/01/03	04/01/04						04/01/09	○	JapRule1	N/A																										
+7	AP089	N	N	N	N06		"CHI, CO,. LTD"		Yakushiji		Yakushiji	Yakushiji	Yakushiji	Yakushiji	Yakushiji	Sato	0%	0%	0%								08/14/06				08/14/11	○	JapRule1	○																										
+8	AP105			N	N08		CKS						Kumomi	Kumomi	Kumomi	Furuzono	0%	0%	0%										02/14/08		02/14/13	○	JapRule1	○																										
+9	AP011	C	C	C		Y	Computer Brains Inc.	Oda	Kumomi	Minamoto	Yakushiji	Yakushiji	Yakushiji	Yakushiji	Yakushiji	Minamoto	0%	0%	0%	"Medical Systems -                                         License 0%, SU 0%"	0%	0%	0%	04/01/03	04/01/04	04/01/05					04/01/10	○	JapRule2	N/A	1																									
+10	AP026	D	C	C		Y	"Core CreateSystem Co., Ltd."	Oda	Kumomi	Iwamoto	Kumomi	Oda	Kumomi	Kota	Kota	Horita	0%	0%	0%		0%	0%	0%	07/01/03	07/01/04					07/01/09	07/01/14	○	JapRule2	N/A	80																									
+11	AP100		N	N	N08	Y	"COSMO MEDICAL SYSTEM CO., LTD."					Oda	Kumomi	Kumomi	Kumomi	Minamoto	0%	0%	0%									12/01/08			12/01/13	○	JapRule1	○																										
+12	AP005	C	C	C			Cosmotec Patent Information Systems Inc.	Yakushiji	Yakushiji	Iwamoto	Yakushiji	Yakushiji	Yakushiji	Kota	Yakushiji	Iwamoto	0%	0%	0%	Distribution: n+1	0%	0%	0%	03/14/03	03/14/04						03/14/09	○	JapRule1	N/A	590																									
+13	AP062	N	N	D	N04		"DATABASE COMMUNICATIONS, INC"	Kumomi	Yoshitani	Sugita	Yoshitani	Kumomi	Kumomi	Kumomi	Kumomi	Sato	0%	0%	0%						11/01/04						11/01/09	○	JapRule5	○																										
+14	AP027	D	C	C		Y	"datacube Co., Ltd."	Oda	Kumomi	Iwamoto	Yoshitani	Oda	Kumomi	Kumomi	Kumomi	Horita	0%	0%	0%		0%	0%	0%	07/01/03	07/01/04						07/01/09	○	JapRule2	N/A	2																									
+15	AP088	N	N	N	N06	Y	DENSEISHA		Oda		Yoshitani	Oda	Kumomi	Kumomi	Kumomi	Minamoto	0%	0%	0%								06/08/06				06/08/11	○	JapRule2	○	1																									
+16	AP098		N	N	N07	Y	"Digital Office Co., Ltd."				Yoshitani	Kumomi	Kumomi	Kota	Kumomi	Sato	0%	0%	0%									06/01/07			06/01/12	○	JapRule1	○	22																									
+17	AP084	N	N	N	N06		DM Research Center Corporation		Yakushiji	Suigta	Yakushiji	Yakushiji	Yakushiji	Yakushiji	Yakushiji	Sato	0%	0%	0%								01/27/06				01/27/11	○	JapRule1	○																										
+18	AP102		N	N	N07		"EC-One, Inc."					Yakushiji	Yakushiji	Yakushiji	Yakushiji	Iwamoto	0%	0%	0%									08/01/07			08/01/12	○	JapRule1	○																										
+19	AP095		N	N	N07		Eiwa				Kumomi	Kumomi	Kumomi	Kumomi	Kumomi	Sato	0%	0%	0%									02/20/07			02/20/12	○	JapRule2	○																										
+20	AP028	D	D	D			Environmental Research Inst. Inc.	Yakushiji	Yakushiji	Iwamoto	Yakushiji	Yakushiji	Yakushiji	Yakushiji	Yakushiji	Sato	0%	0%	0%	JDS purchased SU 0% (0%)	0%	0%	0%	07/01/03	07/01/04						07/01/09	○	JapRule1	N/A	64																									
+21	AP072	N	N	C	N05		Fujitsu Social Science Laboratory Ltd.	Kumomi	Yoshitani	Kaminaka	Yoshitani	Yakushiji	Yakushiji	Kota	Kota	Kaminaka	0%	0%	0%	"Enterprise License 0%, SU 0%, TA 0%"						04/01/05					04/01/10	○	JapRule5	○	7																									
+22	AP068	N	N	D	N05		Gallop	Yakushiji	Yakushiji	Sugita	Yakushiji	Yakushiji	Yakushiji	Yakushiji	Yakushiji	Sato	0%	0%	0%							03/01/05					03/01/10	○	JapRule2	○																										
+23	AP003	A	A	A			"Hewlett-Packard Japan, Ltd."	Yakushiji	Yakushiji	Minamoto	Yakushiji	Yakushiji	Yakushiji	Yakushiji	Yakushiji	Iwamoto	0%	0%	0%		0%	0%	0%	03/01/03		09/01/05					09/01/10	○	JapRule1	N/A																										
+24	AP096		N	N	N07		"IBS Co., Ltd."				Kumomi	Kumomi	Kumomi	Kumomi	Kumomi	Furuzono	0%	0%	0%									03/01/07			03/01/12	○	JapRule1	○	2																									
+25	AP004	D	D	D			"ICAL Co., Ltd."	Oda	Kumomi	Iwamoto	Yoshitani	Yakushiji	Yakushiji	Kota	Yakushiji	Horita	0%	0%	0%		0%	0%	0%	03/01/03	03/01/04	03/01/05					03/01/10	○	JapRule2	N/A	81																									
+26	AP044	N	N	D	N04	Y	"Infolerk co., ltd."	Oda	Kumomi	Horita	Kumomi	Kumomi	Kumomi	Kota	Kumomi	Sato	0%	0%	0%						03/01/04	03/01/05					03/01/10	○	JapRule1	○																										
+27	AP081	N	N	D	N05	Y	"Information Services International -Dentsu, Ltd."	Oda	Oda	Iwamoto	Oda	Oda	Kumomi	Kumomi	Kumomi	Sato	0%	0%	0%							12/01/05					12/01/10	○	JapRule5	○	21																									
+28	AP048	N	N	D	N04	Y	Inter Software Inc.	Oda	Kumomi	Kaminaka	Kumomi	Kumomi	Kumomi	Kota	Kumomi	Sato	0%	0%	0%						04/01/04	04/01/05					04/01/10	○	JapRuke1	N/A	?																									
+29	AP079	N	N	D	N05		IT Stage Corporation	Ouchi	Yakushiji	Sugita	Yakushiji	Yakushiji	Yakushiji	Yakushiji	Yakushiji	Sato	0%	0%	0%							10/04/05					10/04/10	○	JapRule1	○																										
+30	AP093	N	N	N	N06		IT-Brain Corporation		Kumomi		Kumomi	Kumomi	Kumomi	Kumomi	Kumomi	Sato	0%	0%	0%								11/01/06				11/01/11	○	JapRule5	○			?	CARIN																						
+31	AP012	D	D	D			Item  inc.	Kumomi	Kumomi	Sugita	Kumomi	Kumomi	Kumomi	Kumomi	Kumomi	Sato	0%	0%	0%		0%	0%	0%	04/01/03		04/01/05					04/01/10	○	JapRule1	N/A																										
+32	AP013	B	B	C		Y	Japan  DynaSystems Inc.	Oda	Kumomi	Horita	Yoshitani	Oda	Kumomi	Kota	Kota	Horita	0%	0%	0%		0%	0%	0%	04/01/03	04/01/04	04/01/05					04/01/10	○	JapRule1	N/A	15																									
+33	AP033	N	D	D	N03		Japan Systems Create Corporation	Yakushiji	Yakushiji	Minamoto	Yakushiji	Yakushiji	Yakushiji	Yakushiji	Yakushiji	Sato	0%	0%	0%		0%	0%	0%	08/01/03	08/01/04	08/01/05					08/01/10	○	JapRule4	○																										
+34	AP080	N	N	D	N05		JAVAONE Corporation	Ouchi	Yoshitani	Minamoto	Yoshitani	Yakushiji	Yakushiji	Yakushiji	Yakushiji	Sato	0%	0%	0%							11/17/05					11/17/10	○	JapRule1	○																										
+35	AP110	N	N	C	N09	Y	Joint System							Kumomi	Kumomi	Furuzono	0%	0%	0%											04/01/09	04/01/14		JapRule1	○																										
+36	AP030	N	D	D	N03	Y	"Knowledge Works, Inc."	Oda	Kumomi	Horita	Kumomi	Oda	Kumomi	Kota	Kumomi	Sato	0%	0%	0%		0%	0%	0%	07/01/03	07/01/04						07/01/09	○	JapRule2	○																										
+37	AP014	A	B	B			"Kyocera Maruzen System Integration Co., Ltd."	Kumomi	Yoshitani	Sato	Yoshitani	Kumomi	Kumomi	Kumomi	Kumomi	Furuzono	0%	0%	0%		0%	0%	0%	04/01/03	04/01/04	04/01/05					04/01/10	○	JapRule4	N/A																										
+38	AP037	N	D	D	N03		"Laurel Intelligent Systems Co., Ltd."	Yakushiji	Yakushiji	Kaminaka	Yakushiji	Yakushiji	Yakushiji	Yakushiji	Yakushiji	Sato	0%	0%	0%		0%	0%	0%	10/01/03	10/01/04						10/01/09	○	JapRule2	○	300																									
+39	AP022	D	D	D		Y	"MAPSYSTEM Co., Ltd."	Oda	Yoshitani	Sugita	Yoshitani	Oda	Yakushiji	Kota	Yakushiji	Minamoto	0%	0%	0%		0%	0%	0%	06/01/03	06/01/04						06/01/09	○	JapRule2	N/A	9																									
+40	AP040	N	D	D	N03	Y	"Medical Data Vision Co., Ltd."	Oda	Yoshitani	Sugita	Yoshitani	Oda	Kumomi	Kumomi	Kumomi	Furuzono	0%	0%	0%		0%	0%	0%	10/01/03			10/01/06				10/01/11	○	JapRule2	○																										
+41	AP111				N09		"Medical Engineering Institute, Inc."							Kumomi	Kumomi	Kaminaka	0%	0%	0%											09/01/09	09/01/14		JapRule1	○																										
+42	AP097		N	N	N07	Y	"Medical Information System Co., Ltd."				Kumomi	Kumomi	Kumomi	Kumomi	Kumomi	Iwamoto	0%	0%	0%									04/01/07			04/01/12	○	JapRule5	○	30																									
+43	AP023	C	C	C			Meiden Software Corporation	Kumomi	Yakushiji	Minamoto	Yakushiji	Yakushiji	Yakushiji	Yakushiji	Yakushiji	Iwamoto	0%	0%	0%		0%	0%	0%	06/01/03	06/01/04	06/01/05					06/01/10	○	JapRule4	N/A	?																									
+44	AP024	C	C	C		Y	Mitsui Zosen Systems Reseach Inc.	Kumomi	Kumomi	Sato	Kumomi	Kumomi	Kumomi	Kota	Kota	Furuzono	0%	0%	0%		0%	0%	0%	06/01/03	06/01/04	06/01/05					06/01/10	○	JapRule4	N/A	?		1	Marking Vision																						
+45	AP015	D	D	D			M-tone	Kumomi	Kumomi	Iwamoto	Kumomi	Kumomi	Kumomi	Kumomi	Kumomi	Sato	0%	0%	0%	"On-going issue -                                      License 0%, SU 0%, TA 0%                        All AP Purchases-                                            License 0%,SU0%,TA0%"	0%	0%	0%	04/01/03	04/01/04	04/01/05					04/01/10	○	JapRule1	N/A	15		1	Winmedical																						
+46	AP016	B	B	B			"MURATA MACHINERY, LTD."	Yakushiji	Yakushiji	Horita	Yakushiji	Yakushiji	Yakushiji	Yakushiji	Yakushiji	Horita	0%	0%	0%		0%	0%	0%	04/01/03	04/01/04						04/01/09	○	JapRule1	N/A																										
+47	AP108			N	N08		NANO Medical Corporation							Kumomi	Kumomi	Sato	0%	0%	0%										04/01/08		04/01/13		JapRule5	N/A	?																									
+48	AP060	N	N	D	N04	Y	"NEC Soft, Ltd. "	Oda	Oda	Minamoto	Oda	Oda	Kumomi	Kumomi	Kumomi	Sato	0%	0%	0%						10/01/04						10/01/09	○	JapRule1	○	5																									
+49	AP078	N	N	B	N05	Y	Netmarks Inc.	Oda	Oda	Minamoto	Yoshitani	Oda	Yakushiji	Kota	Kota	Horita	0%	0%	0%							09/01/05	09/01/06				09/01/11	○	JapRule1	○																										
+50	AP106			N	N08		"New Concept Co., Ltd."							Kumomi	Kumomi	Sato	0%	0%	0%										03/25/08		03/25/13		JapRule1	○	34																									
+51	AP069	D	D	D			NewLib Co. (Nauka Ltd.)	Yakushiji	Yakushiji	Horita	Yakushiji	Yakushiji	Yakushiji	Yakushiji	Yakushiji	Sato	0%	0%	0%						07/01/04						07/01/09	○	JapRule1	○																										
+52	AP065	N	N	D	N05		"Nihon Soft Technology Co., Ltd."	Oda	Kumomi	Kaminaka	Yoshitani	Kumomi	Kumomi	Kota	Kumomi	Furuzono	0%	0%	0%							02/01/05					02/01/10	○	JapRule1	○																										
+53	AP052	N	N	D	N04		Nippon Computer Systems Corp.	Yakushiji	Yakushiji	Kaminaka	Yakushiji	Yakushiji	Yakushiji	Yakushiji	Yakushiji	Sato	0%	0%	0%						07/01/04	07/01/05					07/01/10	○	JapRule1	○	59																									
+54	AP042	N	D	D	N03		"Nippon Software Service CO., LTD"	Yakushiji	Yakushiji	Kaminaka	Yakushiji	Yakushiji	Yakushiji	Yakushiji	Yakushiji	Kaminaka	0%	0%	0%					12/25/03	12/25/04						12/25/09	○	JapRule1	○	20																									
+55	AP041	N	D	D	N03	Y	"Nippon Systec Co., Ltd."	Oda	Kumomi	Kaminaka	Kumomi	Kumomi	Kumomi	Kumomi	Kumomi	Sato	0%	0%	0%		0%	0%	0%	12/01/03	12/01/04						12/01/09	○	JapRule1	○																										
+56	AP086	N	N	N	N06		"Nittetsu Elex Co., Ltd."		Yakushiji		Yakushiji	Yakushiji	Yakushiji	Yakushiji	Yakushiji	Sato	0%	0%	0%								06/07/06				06/07/11	○	JapRule1	○	1																									
+57	AP064	N	N	D	N04		"Nittsu Information Systems Co., Ltd."	Kumomi	Yoshitani	Sato	Yoshitani	Yakushiji	Yakushiji	Yakushiji	Yakushiji	Furuzono	0%	0%	0%						12/01/04						12/01/09	○	JapRule5	○																										
+58	AP032	C	D	C			Nomura Data Systems Inc.	Oda	Oda	Horita	Yakushiji	Yakushiji	Yakushiji	Yakushiji	Yakushiji	Horita	0%	0%	0%		0%	0%	0%	07/01/03	07/01/04						07/01/09	○	JapRule1	N/A	"4,400"																									
+59	AP057	N	N	D	N04	Y	"NST Globalist, Inc"	Oda	Oda	Kaminaka	Yoshitani	Oda	Kumomi	Kota	Kumomi	Kaminaka	0%	0%	0%						08/01/04	08/01/05					08/01/10	○	JapRule1	○	?																									
+60	AP099		N	N	N07		"N-System Co., Ltd."				Yoshitani	Yakushiji	Yakushiji	Yakushiji	Yakushiji	Furuzono	0%	0%	0%	"Bus Kobo Advance Systems:
+61	AP017	D	D	D			NTT BizLink Corporation	Yakushiji	Yakushiji	Kaminaka	Yakushiji	Yakushiji	Yakushiji	Yakushiji	Yakushiji	Sato	0%	0%	0%		0%	0%	0%	04/01/03	07/01/04						07/01/09	○	JapRule1	N/A			1	BrainBox																						
+62	AP034	A	B	B			NTT DATA CORPORATION	Yakushiji	Yakushiji	Iwamoto	Yakushiji	Yakushiji	Yakushiji	Yakushiji	Yakushiji	Iwamoto	0%	0%	0%		0%	0%	0%	08/01/03	08/01/04	08/01/05					08/01/10	○	JapRule1	N/A																										
+63	AP077	N	N	D	N05		NTT DATA SEKISUI SYSTEMS CORPORATION  (ISAC Inc.)	Yakushiji	Yakushiji	Sugita	Yakushiji	Yakushiji	Yakushiji	Yakushiji	Yakushiji	Furuzono	0%	0%	0%							08/01/05					08/01/10	○	JapRule1	○																										
+64	AP109				N08		NTT DATA SYSTEM SERVICE CORPORATION							Yakushiji	Yakushiji	Iwamoto	0%	0%	0%										04/01/08		04/01/13		JapRule1	○																										
+65	AP082	N	N	D	N05	Y	NTT DATA TOKAI Corporation	Oda	Oda	Horita	Yakushiji	Yakushiji	Yakushiji	Yakushiji	Yakushiji	Horita	0%	0%	0%							11/01/05					11/01/10	○	JapRule1	○	40																									
+66	AP112				N09		Okinawa Information System							Kumomi		Horita	0%	0%	0%											11/01/09	11/01/14		JapRule1	○																										
+67	AP006	B	B	B			Paltac Corporation	Kumomi	Kumomi	Iwamoto	Kumomi	Kumomi	Kumomi	Kumomi	Kumomi	Iwamoto	0%	0%	0%	"All outside sales for Large End Users: License 0%, SU 0%, TA 0%"	0%	0%	0%	03/18/03	03/18/04						03/18/09	○	JapRule1	N/A																										
+68	AP107			N	N08		"Peak Consulting Group Co., Ltd."							Yakushiji	Yakushiji	Furuzono	0%	0%	0%										04/01/08		04/01/13		JapRule1	○	1																									
+69	AP046	N	N	D	N04		Planet Corp.	Kumomi	Yoshitani	Kaminaka	Yoshitani	Kumomi	Kumomi	Kumomi	Kumomi	Sato	0%	0%	0%						04/01/04	04/01/05					04/01/10	○	JapRule1	○																										
+70	AP076	N	N	D	N05		QUALICA Inc.	Oda	Yakushiji	Sato	Yakushiji	Yakushiji	Yakushiji	Kota	Yakushiji	Sato	0%	0%	0%							07/04/05					07/04/10	○	JapRule1	○																										
+71	AP103		N	N	N07		"QualiTech, Inc."					Kumomi	Kumomi	Kumomi	Kumomi	Minamoto	0%	0%	0%									10/01/07			10/01/12	○	JapRule1	○																										
+72	AP104		N	N	N07		"RICOH TECHNOSYSTEMS CO., LTD."					Yakushiji	Yakushiji	Kota	Yakushiji	Kaminaka	0%	0%	0%									11/01/07			11/01/12	○	JapRule1	○																										
+73	AP071	N	N	D	N05	Y	Roops Inc.	Oda	Kumomi	Sato	Kumomi	Kumomi	Kumomi	Kota	Kumomi	Sato	0%	0%	0%							04/01/05					04/01/10	○	JapRule1	○																										
+74	AP045	N	N	D	N04	Y	"Ryobi Systems Co., Ltd"	Oda	Oda	Iwamoto	Yoshitani	Oda	Kumomi	Kumomi	Kumomi	Sato	0%	0%	0%						03/01/04	03/01/05					03/01/10	○	JapRule1	○																										
+75	AP053	N	N	D	N04	Y	"SBS Information Systems Co., Ltd."	Oda	Oda	Minamoto	Oda	Oda	Kumomi	Kumomi	Kumomi	Sato	0%	0%	0%						07/01/04	07/01/05					07/01/10	○	JapRule1	○																										
+76	AP035	D	D	D		Y	Seafic Software Corporation	Oda	Kumomi	Sugita	Kumomi	Kumomi	Kumomi	Kumomi	Kumomi	Sato	0%	0%	0%		0%	0%	0%	08/01/03	08/01/04						08/01/09	○	JapRule2	○																										
+77	AP043	N	N	C	N04	Y	"Seiren System Service Co., Ltd."	Oda	Kumomi	Iwamoto	Kumomi	Oda	Yakushiji	Kota	Yakushiji	Minamoto	0%	0%	0%	"TrakHealth Pty Limited -                        License 0%, SU 0%, TA 0%"					02/01/04		09/01/06				09/01/11	○	JapRule1	N/A	100		1	Value Infinity																						
+78	AP036	N	D	D	N03		SET Software Corporation 	Yakushiji	Yakushiji	Kaminaka	Yakushiji	Yakushiji	Yakushiji	Yakushiji	Yakushiji	Sato	0%	0%	0%		0%	0%	0%	09/01/03	09/01/04						09/01/09	○	JapRule2	○																										
+79	AP039	N	D	D	N03	Y	Shimizu Syntec Corporation	Oda	Kumomi	Minamoto	Kumomi	Kumomi	Kumomi	Kumomi	Kumomi	Minamoto	0%	0%	0%		0%	0%	0%	11/01/03	11/01/04						11/01/09	○	JapRule1	N/A																										
+80	AP019	D	D	D			"Sumitomo Electric Field Systems Co., Ltd.）"	Oda	Kumomi	Sato	Kumomi	Kumomi	Kumomi	Kumomi	Kumomi	Sato	0%	0%	0%	"Nursing System:                                            License 0%, SU 0%, TA 0%"	0%	0%	0%	04/01/03	04/01/04	04/01/05					04/01/10	○	JapRule4	N/A	700																									
+81	AP075	N	N	D	N05	Y	Sun System Corporation	Oda	Kumomi	Kaminaka	Kumomi	Kumomi	Kumomi	Kumomi	Kumomi	Sato	0%	0%	0%							06/01/05					06/01/10	○	JapRule3	○																										
+82	AP066	N	N	D	N05	Y	System Dynamics Inc.	Oda	Kumomi	Horita	Kumomi	Kumomi	Kumomi	Kota	Kumomi	Horita	0%	0%	0%							03/01/05					03/01/10	○	JapRule1	○	?																									
+83	AP067	N	N	D	N04	Y	"Systemgiken Co., Ltd."	Oda	Oda	Iwamoto	Kumomi	Kumomi	Kumomi	Kota	Kumomi	Iwamoto	0%	0%	0%							02/01/05					02/01/10	○	JapRuke5	○	18																									
+84	AP050	N	N	D	N04	Y	T&S Research Inc.	Oda	Kumomi	Iwamoto	Kumomi	Kumomi	Kumomi	Kumomi	Kumomi	Sato	0%	0%	0%						06/01/04	06/01/05					06/01/10	○	JapRule1	○																										
+85	AP070	N	N	D	N05	Y	"Technical Software Consultant, INC."	Oda	Kumomi	Minamoto	Kumomi	Kumomi	Kumomi	Kumomi	Kumomi	Sato	0%	0%	0%							04/01/05					04/01/10	○	JapRule1	○																										
+86	AP073	N	N	D	N05	Y	"Techno System Co., Ltd."	Oda	Kumomi	Sato	Kumomi	Kumomi	Kumomi	Kumomi	Kumomi	Sato	0%	0%	0%							05/01/05					05/01/10	○	JapRule1	○																										
+87	AP007	D	D	D			"TKU CO., LTD.　　（ 旧Takachiho UseWare Co., Ltd. )"	Kumomi	Yoshitani	Sugita	Yoshitani	Kumomi	Kumomi	Kumomi	Kumomi	Sato	0%	0%	0%		0%	0%	0%	03/26/03	03/26/04						03/26/09	○	JapRule3	N/A	5																									
+88	AP074	N	N	D	N05	Y	TMR Systems Inc.	Oda	Kumomi	Kaminaka	Kumomi	Kumomi	Kumomi	Kumomi	Kumomi	Sato	0%	0%	0%	"Migration: Plus 0%:MAY05-APRI06,           Plus 0%: MAY06-APR07"						05/01/05					05/01/10	○	JapRule3	○																										
+89	AP001	C	C	D		Y	Tomis Systems K.K.	Oda	Yoshitani	Kaminaka	Yoshitani	Oda	Kumomi	Kota	Kumomi	Sato	0%	0%	0%		0%	0%	0%	01/06/03	01/06/04	01/06/05					01/06/10	○	70	N/A	2																									
+90	AP021	D	D	D			Torem Corporation	Kumomi	Yoshitani	Sato	Yoshitani	Kumomi	Kumomi	Kumomi	Kumomi	Sato	0%	0%	0%		0%	0%	0%	05/21/03	05/21/04	05/21/05					05/21/10	○	JapRule2	N/A																										
+91	AP008	B	B	A		Y	Toshiba Sumiden Medical Information Systems Corporation	Oda	Kumomi	Minamoto	Kumomi	Kumomi	Kumomi	Kumomi	Kumomi	Minamoto	0%	0%	0%		0%	0%	0%	03/28/03	04/01/04	04/01/05					04/01/10	○	JapRule3	N/A																										
+92	AP087	N	N	N	N06		transcosmos inc.		Kumomi		Kumomi	Kumomi	Kumomi	Kumomi	Kumomi	Kaminaka	0%	0%	0%								07/01/06				07/01/11	○	JapRule2	○																										
+93	AP091	N	N	N	N06	Y	Trust Brain Inc.		Oda		Oda	Oda	Kumomi	Kumomi	Kumomi	Minamoto	0%	0%	0%								10/01/06				10/01/11	○	JapRule1	○	?		1	e-learning																						
+94	AP054	N	N	C	N04	Y	"Tsuzuki Densan Co., Ltd."	Oda	Kumomi	Minamoto	Kumomi	Kumomi	Kumomi	Kumomi	Kumomi	Minamoto	0%	0%	0%	Distribution: n+1;　All Multi-Year Support					06/22/04	06/22/05					06/22/10	○	JapRule1	○																										
+95	AP056	N	N	D	N04		"UKnet, Inc."	Yakushiji	Yakushiji	Kaminaka	Yakushiji	Yakushiji	Yakushiji	Yakushiji	Yakushiji	Sato	0%	0%	0%						08/01/04	08/01/05					08/01/10	○	JapRule1	○																										
+96	AP058	N	N	D	N04		"Van Data System Co., Ltd."	Yakushiji	Yakushiji	Iwamoto	Yakushiji	Yakushiji	Yakushiji	Yakushiji	Yakushiji	Sato	0%	0%	0%						08/01/04	08/01/05					08/01/10	○	JapRule1	○																										
+97	AP083	N	N	D	N05		"VENDOR SERVICE CO., LTD (旧　WISDA Co., Ltd.)"	Yakushiji	Yakushiji	Iwamoto	Yakushiji	Yakushiji	Yakushiji	Yakushiji	Yakushiji	Sato	0%	0%	0%							12/01/05		07/01/07			07/01/12	○	JapRule1	○																										

@@ -1,0 +1,233 @@
+ISJ Business Performance処理の流れ
+
+0. 事前準備
+
+0.1 データの消去
+
+>do ##class(ISJ.Results).%KillExtent()
+
+0.2　データソースの準備
+
+各年の年末のBillingByAccount情報を準備（EXCELファイル）
+各年のAPLIｓｔ情報を準備（EXCELファイル）
+これらのEXCELファイルからcsvファイルまたはタブ区切りテキストファイルを作成
+（Billingはcsv、APListはタブ区切り）
+それらのファイルの先頭および終わりには余計な空行があるため取り除く
+
+1.　プロダクションのスタート
+
+IRISDEMOネームスペース
+
+ISJ.BillingResult
+
+2. 各年の結果をロード
+
+各年のアカウント別結果を以下のディレクトリに置く
+
+Windows
+
+c:\isj\in
+
+Linux
+
+/intersystems/iris/isj/in
+
+元ファイルは、
+
+Windows
+
+c:\isjbusiness\csv\yyyyBillingByAccount
+
+Linux
+
+/intersystems/iris/isjbusiness/csv/yyyBillingByAccount
+
+yyyy 2003-2019
+
+
+3. データクレンジング
+
+3.1 事前準備
+
+3.1.1 ISJ.Tools.Utility.BuildAccountNameList	***
+
+ISJ.Resultsの全レコードからアカウント名のユニークなリストをファイルで出力する
+ファイル名は、shortnamelist.csv
+
+配置場所
+
+Windows
+
+c:\isjbusiness\misc
+
+Linux
+
+/intersystems/iris/isjbusiness/misc
+
+
+>set file = "c:\isjbusiness\misc\shortnamelist.csv"
+
+>set file = "/intersystems/iris/isjbusiness/misc/shortnamelist.csv"
+
+>set status = ##class(ISJ.Tools.Utility).BuildAccountNameList(file)
+
+
+出力されたファイルを編集し、対応するSHORTNAMEを追加する（カンマ区切り）
+
+編集作業は、一度行えばあとは使い回せる
+
+3.2 Data Cleansing Serviceの起動
+
+2.の結果にSHORTNAME、AccountType、AM情報を付加する
+
+IRISDEMOネームスペースにログイン後
+
+>do ##class(ISJ.Tools.Utility).InvokeDataCleansingService()
+
+file directory ?
+
+と聞かれるので
+
+Windows
+
+c:\isjbusiness\misc
+
+Linux
+
+/intersystems/iris/isjbusiness/misc
+
+と答える
+
+このサービスが内部でISJ.Opearation.DataCleansingを呼び出す。
+
+この方法では、Windowsではpythonプログラムが動作しないので、プログラムから直接起動する方法も用意
+
+Windows:
+>set dir = "c:\isjbusiness\misc"
+
+Linux:
+>set dir = "/intersystems/iris/isjbusiness/misc"
+
+>do ##class(ISJ.Tools.Utility).DataCleansing(dir)
+
+
+3.3 追加のCleansing処理（AM情報の再取得）
+
+設定できていないAM情報がある
+
+3.3.1 ISJ.Tools.Utility.OutputMayBeSameList
+
+類似度が0.8以上0.93未満
+
+アカウント名の表記ゆれに対して人の判断が必要なリストを出力する
+
+Windows:
+>set file = "c:\isjbusiness\misc\maybesamelist.txt"
+
+Linux:
+>set file = "/intersystems/iris/isjbusiness/misc/maybesamelist.txt"
+
+>do ##class(ISJ.Tools.Utility).OutputMayBeSameList(file)
+
+ファイル名 maybesamelist.txt
+
+配置場所
+
+Windows:
+c:\isjbusiness\misc
+
+Linux:
+/intersystems/iris/isjbusiness/misc
+
+
+3.3.2 ISJ.Tools.Utility.AssignAM
+
+3.3.1のリストを参照し、同じとみなしていいアカウントのフラグを0から１に変更する(区切りはタブ)		***
+
+変更後保存
+
+ISJ.Tools.Utility.AssignAMの入力としてそのファイルを指定し、実行
+
+一度編集すれば使い回せる
+
+Windows:
+>set file = "c:\isjbusiness\misc\maybesamelist-checked.txt"
+
+Linux:
+>set file = "/intersystems/iris/isjbusiness/misc/maybesamelist-checked.txt"
+
+>do ##class(ISJ.Tools.Utility).AssignAM(file)
+
+
+3.3.3　APでないアカウントに対しては、AM情報がないので、手動で設定する 
+
+3.3.4 ISJ.Tools.Utility.BuildNoAMList
+
+ISJ.Resultsに対してAM情報の入っていないレコードをファイルに出力
+
+>set file = "c:\isjbusiness\misc\noamlist.txt"
+
+>set file = "/intersystems/iris/isjbusiness/misc/noamlist.txt"
+
+>do ##class(ISJ.Tools.Utility).BuildNoAMList(file)
+
+3.3.5 ISJ.Tools.Utility.AssignAM		***
+
+3.3.4のファイルを参照し、AM情報を付加する
+
+変更後保存(一度変更すれば使い回せる)
+
+ISJ.Tools.Utility.AssignAMの入力としてそのファイルを指定し、実行
+
+Windows:
+>set file = "c:\isjbusiness\misc\noamlist-checked.txt"
+
+Linux:
+>set file = "/intersystems/iris/isjbusiness/samples/misc/noamlist-checked.txt"
+
+>do ##class(ISJ.Tools.Utility).AssignAM(file)
+
+
+
+
+4 ISJ.Opearation.DataCleansingの処理内容
+
+4.1　ISJ.Tools.Utility.BuildAMMaster
+
+APListエクセルファイルをTAB区切りのテキストファイルに変換したものからアカウントマネージャ情報を取得し、
+ISJ.Master.AMテーブルを作成する
+
+4.2　ISJ.Tools.Utility.BuildShortNameLookupTable
+
+3.1.1で出力されたファイルを参照し、対応するSHORTNAMEを編集する（カンマ区切り）
+
+そのファイルを読み込んでSHORTNAMEルックアップテーブルを生成する
+
+(Ens.Util.LookupTable)
+
+TableName	SHORTNAME
+KeyName		<accountname>
+DataValue	<shortname>
+
+4.3 ISJ.Tools.Utility.AssignShortName
+
+ISJ.ResultにSHORTNAMEルックアップテーブルを参照してSHORTNAMEを割り当てる
+
+4.4 ISJ.Tools.Utility.AssignAccountType
+
+Accountのタイプをカテゴリ化
+　1　ISJ設立前からのAccount
+　2　2003年から2009年までに契約したAccount
+　3　2010年以降のAccount
+
+TableName	ATYPE
+KeyName		<accountname>
+DataValue	1 or 2 or 3
+
+以下のｓｑｌをaccount毎に実行し、最初の契約年を取得
+
+select min(year) from isj.results where shortname = ? order by year
+
+4.5 ISJ.Tools.Utility.AssignAccountManager
+
+ISJ.Resultsの各レコードでAMの値が設定されていない場合にはアカウント名と年度をキーとしてAMマスターテーブルからAMを取得する

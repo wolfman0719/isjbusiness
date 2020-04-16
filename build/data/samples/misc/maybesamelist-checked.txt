@@ -1,0 +1,39 @@
+37	0.830188679	Medical Data Vision K.K.	"Medical Data Vision Co., Ltd."	1	Oda
+48	0.844444444	"Nippon Truck Co., Ltd."	"Nippon Systec Co., Ltd."	0	Oda
+49	0.838709677	Nittsu Information Systems	"Nittsu Information Systems Co., Ltd."	1	Kumomi
+72	0.814814815	TMR Systems	TMR Systems Inc.	1	Oda
+130	0.823529412	"Sumitomo Electric System Solutions Co., Ltd."	"Sumitomo Electric Field Systems Co., Ltd."	1	Oda
+155	0.821428571	Japan Systems Create Co.	Japan Systems Create Corporation	1	Yakushiji
+158	0.844444444	"Nippon Truck Co., Ltd."	"Nippon Systec Co., Ltd."	0	Oda
+218	0.844444444	"Nippon Truck Co., Ltd."	"Nippon Systec Co., Ltd."	0	Kumomi
+223	0.846153846	"CHI CO., LTD."	"CHI, CO,. LTD"	1	Yakushiji
+227	0.823529412	"Sumitomo Electric System Solutions Co., Ltd."	"Sumitomo Electric Field Systems Co., Ltd."	0	Kumomi
+228	0.821428571	Japan Systems Create Co.	Japan Systems Create Corporation	1	Yakushiji
+245	0.847058824	NTT DATA SEKISUI SYSTEMS CORPORATION	NTT DATA SEKISUI SYSTEMS CORPORATION  (ISAC Inc.)	1	Yakushiji
+339	0.804597701	"Sumitomo Electric System Solutions Co., Ltd."	"Sumitomo Electric Field Systems Co., Ltd.?j"	0	Kumomi
+352	0.821428571	Japan Systems Create Co.	Japan Systems Create Corporation	1	Yakushiji
+357	0.844444444	"Nippon Truck Co., Ltd."	"Nippon Systec Co., Ltd."	0	Kumomi
+372	0.847058824	NTT DATA SEKISUI SYSTEMS CORPORATION	NTT DATA SEKISUI SYSTEMS CORPORATION  (ISAC Inc.)	1	Yakushiji
+444	0.804597701	"Sumitomo Electric System Solutions Co., Ltd."	"Sumitomo Electric Field Systems Co., Ltd.?j"	0	Kumomi
+461	0.844444444	"Nippon Truck Co., Ltd."	"Nippon Systec Co., Ltd."	0	Kumomi
+484	0.847058824	NTT DATA SEKISUI SYSTEMS CORPORATION	NTT DATA SEKISUI SYSTEMS CORPORATION  (ISAC Inc.)	1	Yakushiji
+503	0.892307692	"Medical Information Co., Ltd."	"Medical Information System Co., Ltd."	0	Kumomi
+580	0.844444444	"Nippon Truck Co., Ltd."	"Nippon Systec Co., Ltd."	0	Kumomi
+637	0.918367347	"Computer Applicationware Laboratory Co., Ltd."	"Computer Applicationware Laboratory Co., Ltd. (?ICAL)"	1	Kota
+657	0.810810811	"SYSTEX Co., LTD."	"Systemgiken Co., Ltd."	0	Kota
+716	0.921568627	Toshiba Medical Information Systems Corporation	Toshiba Sumiden Medical Information Systems Corporation	1	Kumomi
+748	0.918367347	"Computer Applicationware Laboratory Co., Ltd."	"Computer Applicationware Laboratory Co., Ltd. (?ICAL)"	1	Kota
+778	0.818181818	MEDICEO CORPORATION	Medical Front Corporation	0	Kota
+785	0.810810811	"SYSTEX Co., LTD."	"Systemgiken Co., Ltd."	0	Kota
+819	0.893617021	"TSUZUKI DENKI CO., LTD."	"Tsuzuki Densan Co., Ltd."	1	Kumomi
+891	0.810810811	"SYSTEX Co., LTD."	"Systemgiken Co., Ltd."	0	Kota
+997	0.85	"Systembit Co., Ltd."	"Systemgiken Co., Ltd."	0	Kota
+1015	0.853658537	TOSHIBA MEDICAL SYSTEMS CORPORATION	Toshiba Medical Information Systems Corporation	1	Kumomi
+1072	0.857142857	TAIYO SYSTEM	TAIYO SYSTEM Co.	1	Nanbu
+1128	0.857142857	TAIYO SYSTEM	TAIYO SYSTEM Co.	1	Nanbu
+1142	0.85	"Systembit Co., Ltd."	"Systemgiken Co., Ltd."	0	Kota
+1159	0.810810811	TOSHIBA INFORMATION SYSTEMS CORPORATION	TOSHIBA MEDICAL SYSTEMS CORPORATION	0	Kumomi
+1161	0.851851852	NTT DATA TERANOS CORPORATION	NTT DATA TOKAI Corporation	0	Yakushiji
+1325	0.857142857	TAIYO SYSTEM	TAIYO SYSTEM Co.	1	Yakushiji
+1338	0.90625	Medical Engineering Institute	"Medical Engineering Institute, Inc."	1	Kumomi
+1504	0.857142857	TAIYO SYSTEM	TAIYO SYSTEM Co.	1	Yakushiji

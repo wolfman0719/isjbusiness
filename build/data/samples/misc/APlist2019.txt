@@ -1,0 +1,80 @@
+1	AP114				N10		"ADWiC Co., Ltd."	Oda	Yoshitani	Kaminaka	Yoshitani	Oda	Kumomi	Yakushiji		Minamoto	0%	0%	0%												02/01/10										02/01/15		JapRule1	N	未申請																									
+2	AP085	N	N	N	N06	Y	Big Valley International Inc.		Oda		Oda	Oda	Kumomi	Yakushiji	Kumomi	Minamoto	0%	0%	0%								02/01/06														02/01/11	○	JapRule1	N	未申請	14																								
+3	AP139				N15		BizBase Inc.							Yakushiji		Minamoto	0%	0%	0%																	09/01/15					09/01/20		JapRule1	N	未申請	1																								
+4	AP004	D	D	D			Canon Argus Logic Inc.	Oda	Kumomi	Iwamoto	Yoshitani	Yakushiji	Yakushiji	Kumomi	Yakushiji	Minamoto	0%	0%	0%		0%	0%	0%	03/01/03	03/01/04	03/01/05					03/01/10										03/01/15	○	JapRule2	N	未申請																									
+5	AP008	B	B	A		Y	Canon Medical Systems Corporation (旧TOSHIBA MEDICAL SYSTEMS CORPORATION)	Oda	Kumomi	Minamoto	Kumomi	Kumomi	Kumomi	Konki	Kumomi	Minamoto	0%	0%	0%		0%	0%	0%	03/28/03	04/01/04	04/01/05															04/01/10	○	JapRule3	N	未申請	1																								
+6	AP105			N	N08		CKS						Kumomi	Kumomi	Kumomi	Minamoto	0%	0%	0%										02/14/08												02/14/13	○	JapRule1	N	未申請																									
+7	AP026	D	C	C		Y	"Core Create System Co., Ltd."	Oda	Kumomi	Iwamoto	Kumomi	Oda	Kumomi	Konki	Kota	Minamoto	0%	0%	0%		0%	0%	0%	07/01/03	07/01/04					07/01/09											07/01/14	○	JapRule2	N	Approved	590																								
+8	AP100		N	N	N08	Y	"COSMO MEDICAL SYSTEM CO., LTD."					Oda	Kumomi	Yakushiji	Kumomi	Minamoto	0%	0%	0%									12/01/08													12/01/13	○	JapRule1	N	Approved	22																								
+9	AP027	D	C	C		Y	"datacube Co., Ltd."	Oda	Kumomi	Iwamoto	Yoshitani	Oda	Kumomi	Kumomi	Kumomi	Horita	0%	0%	0%		0%	0%	0%	07/01/03	07/01/04																07/01/09	○	JapRule2	N	Approved																									
+10	AP088	N	N	N	N06	Y	DENSEISHA		Oda		Yoshitani	Oda	Kumomi	Kumomi	Kumomi	Minamoto	0%	0%	0%								06/08/06														06/08/11	○	JapRule2	N	未申請																									
+11	AP098		N	N	N07	Y	"Digital Office Co., Ltd."				Yoshitani	Kumomi	Kumomi	Kumomi	Kumomi	Minamoto	0%	0%	0%									06/01/07													06/01/12	○	JapRule1	N	Approved	7																								
+12	AP003	A	A	A			"DXC Technology Japan, Ltd. (旧Hewlett-Packard Japan, Ltd.)"	Yakushiji	Yakushiji	Minamoto	Yakushiji	Yakushiji	Yakushiji	Yakushiji	Yakushiji	Iwamoto	0%	0%	0%		0%	0%	0%	03/01/03		09/01/05															09/01/10	○	JapRule1	N	Reject																									
+13	AP028	D	D	D			Environmental Research Inst. Inc.	Yakushiji	Yakushiji	Iwamoto	Yakushiji	Yakushiji	Yakushiji	Yakushiji	Yakushiji	Minamoto	0%	0%	0%	JDS purchased SU 0% (0%)	0%	0%	0%	07/01/03	07/01/04																07/01/09	○	JapRule1	N	Approved																									
+14	AP120				N11		exscion Inc.							Yakushiji		Minamoto	0%	0%	0%													08/01/11									08/01/16		JapRule1	N	未申請																									
+15	AP118				N11		FUJITSU LIMITED							Kumomi		Kaminaka	0%	0%	0%													04/01/11									04/01/16		JapRule5	N	未申請																									
+16	AP146				N19		"Gappa Co., Ltd."							Yakushiji		Minamoto	0%	0%	0%																					03/01/19	03/01/22		JapRule1	N	未申請																									
+17	AP129				N13		"Hitachi, Ltd."							Nanbu		Kaminaka	0%	0%	0%															10/30/13							10/30/18		JapRule1	N	未申請																									
+18	AP044	N	N	D	N04	Y	"IC-Solutions.Co.,Ltd "	Oda	Kumomi	Horita	Kumomi	Kumomi	Kumomi	Kumomi	Kumomi	Minamoto	0%	0%	0%						03/01/04	03/01/05					03/01/10										03/01/15	○	JapRule1	N	未申請																									
+19	AP133				N14		INTEC Inc.							Konki		Kaminaka	0%	0%	0%																03/24/14						03/24/19		JapRule1	N	未申請																									
+20	AP013	B	B	C		Y	Japan  DynaSystems Inc.	Oda	Kumomi	Horita	Yoshitani	Oda	Kumomi	Nanbu	Kota	Horita	0%	0%	0%		0%	0%	0%	04/01/03	04/01/04	04/01/05					04/01/10										04/01/15	○	JapRule1	N	未申請																									
+21	AP137	N	N	D	N15		Japan Patent Data Service Co.	Oda	Kumomi	Kaminaka	Yoshitani	Kumomi	Kumomi	Kota		Iwamoto	0%	0%	0%	Distribution: n+1																04/01/15					04/01/20		JapRule2	N	未申請	300																								
+22	AP144				N18		Keyware Solutions Inc.							Konki		Kaminaka	0%	0%	0%																				01/16/18		01/16/23		JapRule1	N	未申請																									
+23	AP014	A	B	B			"KYOCERA Communication Systems Co., Ltd."	Kumomi	Yoshitani	Sato	Yoshitani	Kumomi	Kumomi	Kumomi	Kumomi	Furuzono	0%	0%	0%		0%	0%	0%	04/01/03	04/01/04	04/01/05								06/04/13			01/27/16				01/27/21	○	JapRule4	N	未申請																									
+24	AP143				N17		"LEAD Co., Ltd."							Konki			0%	0%	0%																			12/01/17			12/01/22		JapRule1	Y	未申請																									
+25	AP131				N13		MAIN CORPORATION							Yakushiji		Furuzono	0%	0%	0%															11/13/13							11/13/18		JapRule1	N	未申請																									
+26	AP022	D	D	D		Y	"MAPSYSTEM Co., Ltd."	Oda	Yoshitani	Sugita	Yoshitani	Oda	Yakushiji	Kumomi	Yakushiji	Minamoto	0%	0%	0%		0%	0%	0%	06/01/03	06/01/04					06/01/09											06/01/14	○	JapRule2	N	未申請	30																								
+27	AP111				N09		"Medical Engineering Institute, Inc."							Kumomi	Kumomi	Kaminaka	0%	0%	0%											09/01/09					09/01/14						09/01/19		JapRule1	N	未申請	?		1	Marking Vision																					
+28	AP097		N	N	N18	Y	"Medical Information System Co., Ltd."				Kumomi	Kumomi	Kumomi	Kumomi	Kumomi	Minamoto	0%	0%	0%									04/01/07											06/05/18		06/05/23	○	JapRule5	N	未申請																									
+29	AP136	B	B	C	N14	Y	Medical IT Laboratory	Oda	Kumomi	Horita	Yoshitani	Oda	Kumomi	Nanbu		Iwamoto	0%	0%	0%																09/30/14						09/30/19		JapRule1	N	未申請																									
+30	AP138				N15		Medical-I Inc.							Nanbu		Iwamoto				"ippo Emergency (Cache):0/0/0
+ippo SNS (HS4): 0/0/0
+ippo Drug (HS2 Subscription) : 0%"																10/01/15					10/01/20		JapRule1	N	未申請																									
+31	AP126				N12		MEDIPAL HOLDINGS CORPORATION							Kumomi		Minamoto	0%	0%	0%	"Mediceo Pharmacy
+Entr?e: 0/0/0; Enterprise: 0/0/0
+Distribution: n+3"													10/01/12								10/01/17		JapRule1	N	未申請																									
+32	AP023	C	C	C			Meiden System Solutions Corporation	Kumomi	Yakushiji	Minamoto	Yakushiji	Yakushiji	Yakushiji	Yakushiji	Yakushiji	Minamoto	0%	0%	0%		0%	0%	0%	06/01/03	06/01/04	06/01/05															06/01/10	○	JapRule4	N	Approved																									
+33	AP024	C	C	C		Y	Mitsui E&S Systems Research Inc. (旧Mitsui Zosen Systems Reseach Inc.)	Kumomi	Kumomi	Sato	Kumomi	Kumomi	Kumomi	Yakushiji	Kota	Furuzono	0%	0%	0%		0%	0%	0%	06/01/03	06/01/04	06/01/05					06/01/10										06/01/15	○	JapRule4	N	未申請																									
+34	AP015	D	D	D			M-tone	Kumomi	Kumomi	Iwamoto	Kumomi	Kumomi	Kumomi	Kumomi	Kumomi	Minamoto	0%	0%	0%	"On-going deals:                                             License 0%,SU0%,TA0%"	0%	0%	0%	04/01/03	04/01/04	04/01/05															04/01/10	○	JapRule1	N	未申請	34																								
+35	AP016	B	B	B			"MURATA MACHINERY, LTD."	Yakushiji	Yakushiji	Horita	Yakushiji	Yakushiji	Yakushiji	Yakushiji	Yakushiji	Horita	0%	0%	0%		0%	0%	0%	04/01/03	04/01/04													01/01/17			01/01/22	○	JapRule1	N	未申請																									
+36	AP142				N16		"Murata Systems, Ltd."							Yakushiji		Horita	0%	0%	0%																		11/01/16				11/01/21		JapRule1	N	未申請																									
+37	AP065	N	N	D	N05		"Nihon Soft Technology Co., Ltd."	Oda	Kumomi	Kaminaka	Yoshitani	Kumomi	Kumomi	Kumomi	Kumomi	Minamoto	0%	0%	0%							02/01/05					02/01/10										02/01/15	○	JapRule1	N	未申請			1	BrainBox																					
+38	AP145				N18		"Nippon Access, Inc."							Yakushiji			0%	0%	0%	Cache Executive																			12/01/18		12/01/21		JapRule1	N	未申請																									
+39	AP042	N	D	D	N03		"Nippon Software Service CO., LTD"	Yakushiji	Yakushiji	Kaminaka	Yakushiji	Yakushiji	Yakushiji	Yakushiji	Yakushiji	Minamoto	0%	0%	0%					12/25/03	12/25/04																12/25/09	○	JapRule1	N	未申請																									
+40	AP064	N	N	D	N04		"Nittsu Information Systems Co., Ltd."	Kumomi	Yoshitani	Sato	Yoshitani	Yakushiji	Yakushiji	Yakushiji	Yakushiji	Minamoto	0%	0%	0%						12/01/04																12/01/09	○	JapRule5	N	未申請																									
+41	AP032	C	D	C			Nomura Data Systems Inc.	Oda	Oda	Horita	Yakushiji	Yakushiji	Yakushiji	Yakushiji	Yakushiji	Horita	0%	0%	0%		0%	0%	0%	07/01/03	07/01/04																07/01/09	○	JapRule1	N	Approved																									
+42	AP057	N	N	D	N04	Y	"NST Globalist, Inc"	Oda	Oda	Kaminaka	Yoshitani	Oda	Kumomi	Yakushiji	Kumomi	Minamoto	0%	0%	0%						08/01/04	08/01/05					08/01/10										08/01/15	○	JapRule1	N	Approved																									
+43	AP099		N	N	N07		"N-System Co., Ltd."				Yoshitani	Yakushiji	Yakushiji	Yakushiji	Yakushiji	Furuzono	0%	0%	0%	"Bus Kobo Advance Systems:
+License 0%, SU 0%, TA 0%"								06/20/07		05/01/09											05/01/14	○	JapRule5	N	未申請	1																								
+44	AP034	A	B	B			NTT DATA CORPORATION	Yakushiji	Yakushiji	Iwamoto	Yakushiji	Yakushiji	Yakushiji	Yakushiji	Yakushiji	Iwamoto	0%	0%	0%		0%	0%	0%	08/01/03	08/01/04	08/01/05															08/01/10	○	JapRule1	N	Approved																									
+45	AP109				N08		NTT DATA i CORPORATION							Yakushiji	Yakushiji	Iwamoto	0%	0%	0%										04/01/08					04/01/13		09/01/15					09/01/20		JapRule1	N	Approved																									
+46	AP141				N15		NTT DATA KANSAI CORPORATION							Nanbu		Horita	0%	0%	0%																	12/01/15					12/01/20		JapRule1	N	未申請																									
+47	AP140				N15		NTT DATA TERANOS CORPORATION							Yakushiji		Minamoto	0%	0%	0%																	10/01/15					10/01/20		JapRule1	N	未申請																									
+48	AP082	N	N	D	N05	Y	NTT DATA TOKAI Corporation	Oda	Oda	Horita	Yakushiji	Yakushiji	Yakushiji	Yakushiji	Yakushiji	Minamoto	0%	0%	0%							11/01/05															11/01/10	○	JapRule1	N	未申請																									
+49	AP006	B	B	B			PALTAC Corporation	Kumomi	Kumomi	Iwamoto	Kumomi	Kumomi	Kumomi	Yakushiji	Kumomi	Minamoto	0%	0%	0%	"All outside sales for Large End Users: License 0%, SU 0%, TA 0%"	0%	0%	0%	03/18/03	03/18/04												06/01/16				06/01/21	○	JapRule1	Y	未申請																									
+50	AP107			N	N08		"Peak Consulting Group Co., Ltd."							Yakushiji	Yakushiji	Minamoto	0%	0%	0%										04/01/08												04/01/13		JapRule1	N	未申請																									
+51	AP011	C	C	C		Y	"PROAS Co., Ltd."	Oda	Kumomi	Minamoto	Yakushiji	Yakushiji	Yakushiji	Yakushiji	Yakushiji	Minamoto	0%	0%	0%	Medical Systems - 0/0/0	0%	0%	0%	04/01/03	04/01/04	04/01/05															04/01/10	○	JapRule2	N	Approved																									
+52	AP132				N13		PSP Corporation							Nanbu		Horita	0%	0%	0%															12/24/13							12/24/18		JapRule1	N	未申請	700																								
+53	AP103		N	N	N07		"QualiTech, Inc."					Kumomi	Kumomi	Kumomi	Kumomi	Minamoto	0%	0%	0%									10/01/07													10/01/12	○	JapRule1	N	未申請																									
+54	AP071	N	N	D	N05	Y	Roops　Inc.	Oda	Kumomi	Sato	Kumomi	Kumomi	Kumomi	Kota	Kumomi	Minamoto	0%	0%	0%							04/01/05					04/01/10										04/01/15	○	JapRule1	N	未申請	?																								
+55	AP043	N	N	C	N04	Y	"SEIREN Co., Ltd."	Oda	Kumomi	Iwamoto	Kumomi	Oda	Yakushiji	Nanbu	Yakushiji	Minamoto	0%	0%	0%	"TrakHealth Pty Limited -                        License 0%, SU 0%, TA 0%"					02/01/04		09/01/06					09/01/11					09/01/16				09/01/21	○	JapRule1	N	未申請																									
+56	AP036	N	D	D	N03		SET Software Corporation 	Yakushiji	Yakushiji	Kaminaka	Yakushiji	Yakushiji	Yakushiji	Yakushiji	Yakushiji	Minamoto	0%	0%	0%		0%	0%	0%	09/01/03	09/01/04																09/01/09	○	JapRule2	N	未申請	15																								
+57	AP075	N	N	D	N05	Y	Sun System Corporation	Oda	Kumomi	Kaminaka	Kumomi	Kumomi	Kumomi	Kumomi	Kumomi	Minamoto	0%	0%	0%							06/01/05															06/01/10	○	JapRule3	N	Approved	5																								
+58	AP048	N	N	D	N04	Y	"Systembit Co., Ltd."	Oda	Kumomi	Kaminaka	Kumomi	Kumomi	Kumomi	Kumomi	Kumomi	Minamoto	0%	0%	0%						04/01/04	04/01/05					04/01/10					04/01/15					04/01/20	○	JapRule3	N	Approved																									
+59	AP067	N	N	D	N04	Y	"Systemgiken Co., Ltd."	Oda	Oda	Iwamoto	Kumomi	Kumomi	Kumomi	Kumomi	Kumomi	Minamoto	0%	0%	0%							02/01/05					02/01/10										02/01/15	○	JapRuｌe5	N	未申請																									
+60	AP135				N14		TAIYO SYSTEM Co.							Yakushiji		Minamoto	0%	0%	0%																07/01/14						07/01/19		JapRule1	N	未申請																									
+61	AP070	N	N	D	N05	Y	"Technical Software Consultant, INC."	Oda	Kumomi	Minamoto	Kumomi	Kumomi	Kumomi	Yakushiji	Kumomi	Minamoto	0%	0%	0%							04/01/05															04/01/10	○	JapRule1	N	Approved																									
+62	AP007	D	D	D			"TKU CO., LTD.　　（ 旧Takachiho UseWare Co., Ltd. )"	Kumomi	Yoshitani	Sugita	Yoshitani	Kumomi	Kumomi	Kumomi	Kumomi	Minamoto	0%	0%	0%		0%	0%	0%	03/26/03	03/26/04																03/26/09	○	JapRule3	N	未申請																									
+63	AP074	N	N	D	N05	Y	TMR Systems Inc.	Oda	Kumomi	Kaminaka	Kumomi	Kumomi	Kumomi	Kumomi	Kumomi	Minamoto	0%	0%	0%	"Migration: Plus 0%:MAY05-APRI06,           Plus 0%: MAY06-APR07"						05/01/05															05/01/10	○	JapRule3	N	Approved																									
+64	AP122				N12		"TOKAI-SOFT Co., Ltd."							Yakushiji		Minamoto	0%	0%	0%														03/19/12								03/19/17		JapRule1	N	未申請																									
+65	AP021	D	D	D			Torem Corporation	Kumomi	Yoshitani	Sato	Yoshitani	Kumomi	Kumomi	Kumomi	Kumomi	Minamoto	0%	0%	0%		0%	0%	0%	05/21/03	05/21/04	05/21/05															05/21/10	○	JapRule2	N	未申請																									
+66	AP087	N	N	N	N06		transcosmos inc.		Kumomi		Kumomi	Kumomi	Kumomi	Kota	Kumomi	Minamoto	0%	0%	0%								07/01/06														07/01/11	○	JapRule2	N	未申請																									
+67	AP091	N	N	N	N06	Y	Trust Brain Inc.		Oda		Oda	Oda	Kumomi	Kumomi	Kumomi	Minamoto	0%	0%	0%								10/01/06										04/01/16				04/01/21	○	JapRule1	N	未申請	64																								
+68	AP054	N	N	C	N04	Y	"TSUZUKI DENKI CO., LTD."	Oda	Kumomi	Minamoto	Kumomi	Kumomi	Kumomi	Kota	Kumomi	Minamoto	0%	0%	0%	"Distribution: (n+1)X2, PI;
+All Multi-Year Support"					06/22/04	06/22/05															06/22/10	○	JapRule1	N	未申請	59																								
+69	AP056	N	N	D	N04		"UKnet, Inc."	Yakushiji	Yakushiji	Kaminaka	Yakushiji	Yakushiji	Yakushiji	Yakushiji	Yakushiji	Minamoto	0%	0%	0%						08/01/04	08/01/05															08/01/10	○	JapRule1	N	未申請	?		1	e-learning																					
+70	AP102		N	N	N07		"UL Systems, Inc."					Yakushiji	Yakushiji	Yakushiji	Yakushiji	Minamoto	0%	0%	0%									08/01/07			09/01/10										09/01/15	○	JapRule1	N	未申請																									
+71	AP108			N	N08		VIAMS Inc. (旧NANO Medical Corporation)							Kumomi	Kumomi	Minamoto	0%	0%	0%										04/01/08					04/01/13							04/01/18		JapRule5	N	未申請																									
+72	AP134				N14		WISEMAN Co.Ltd.							Yakushiji		Horita	0%	0%	0%	MediClear: 0/0/0															04/01/14		04/01/16				04/01/21		JapRule5	N		5																								
+73	AP001	C	C	D		Y	Yamani System Service Corporation	Oda	Yoshitani	Kaminaka	Yoshitani	Oda	Kumomi	Yakushiji	Kumomi	Minamoto	0%	0%	0%		0%	0%	0%	01/06/03	01/06/04	01/06/05					01/06/10										01/06/15	○	70	N	未申請																									
+74	AP125				N12		"ZECT, Inc."							Kumomi		Furuzono	0%	0%	0%														08/01/12								08/01/17		JapRule1	N	未申請																									

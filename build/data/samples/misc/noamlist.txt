@@ -1,0 +1,325 @@
+3	0	Japan MSM Co., Ltd.	Japan MSM Co., Ltd.	1	kumomi	
+30	0	AEON Integrated Business Service Co., Ltd.	AEON Integrated Business Service Co., Ltd.	1	yakushiji	
+37	0	VENDOR SERVICE CO., LTD.	VENDOR SERVICE CO., LTD.	1	yakushiji	
+43	0	QUICK Corp.	QUICK Corp.	1	kumomi
+44	0	Computer Applicationware Laboratory Co., Ltd.	Computer Applicationware Laboratory Co., Ltd.	1	oda
+46	0	ITOCHU Techno-Solutions Corporation	ITOCHU Techno-Solutions Corporation	1	oda
+52	0	ITOCHU Techno-Solutions Corporation	ITOCHU Techno-Solutions Corporation	1	oda
+66	0	VENDOR SERVICE CO., LTD.	VENDOR SERVICE CO., LTD.	1	yakushiji
+67	0	TKU CO., LTD.	TKU CO., LTD.	1	kumomi
+69	0	ALP	ALP	1	kumomi
+75	0	Arata Corporation	Arata Corporation	1	kumomi
+76	0	TKU CO., LTD.	TKU CO., LTD.	1	kumomi
+78	0	AT Communications Inc.	AT Communications Inc.	1	kumomi
+80	0	Furuno Electric Co., Ltd.	Furuno Electric Co., Ltd.	1	yakushiji
+82	0	Nippon Express Co., Ltd.	Nippon Express Co., Ltd.	1	kumomi
+83	0	Nippon Express Co., Ltd.	Nippon Express Co., Ltd.	1	kumomi
+85	0	transcosmos inc.	transcosmos inc.	1	kumomi
+95	0	Computer Applicationware Laboratory Co., Ltd.	Computer Applicationware Laboratory Co., Ltd.	1	oda
+96	0	NewLib. Co.	NewLib. Co.	1	yakushiji
+98	0	QUICK Corp.	QUICK Corp.	1	kumomi
+103	0	Framework K.K.	Framework K.K.	1	oda
+107	0	GE Capital Leasing Corporation	GE Capital Leasing Corporation	1	yakushiji
+109	0	Sanyodo Books Co., Ltd.	Sanyodo Books Co., Ltd.	1	kumomi
+112	0	Soka University	Soka University	1	kumomi
+113	0	Hitachi East Japan Solutions, Ltd	Hitachi East Japan Solutions, Ltd	1	oda
+114	0	Nittsu Shoji Co., Ltd.	Nittsu Shoji Co., Ltd.	1	yakushiji
+115	0	Nippon Truck Co., Ltd.	Nippon Truck Co., Ltd.	1	yakushiji
+118	0	NewLib. Co.	NewLib. Co.	1	yakushiji
+122	0	Intel K.K.	Intel K.K.	1	oda
+123	0	Nihon Kohden Corp.	Nihon Kohden Corp.	1	oda
+124	0	NIHON Micronics Inc.	NIHON Micronics Inc.	1	kumomi
+129	0	Sanyodo Books Co., Ltd.	Sanyodo Books Co., Ltd.	1	yakushiji
+130	0	CHI CO., LTD.	CHI CO., LTD.	1	kumomi
+133	0	Japan Association of Medical Infomatics	Japan Association of Medical Infomatics	1	kota
+140	0	Japan MSM Co., Ltd.	Japan MSM Co., Ltd.	1	kumomi
+141	0	Japan Systems Create Co.	Japan Systems Create Co.	1	yakushiji
+143	0	Japan Systems Create Ltd.	Japan Systems Create Ltd.	1	yakushiji
+144	0	CIJ Next Co.,Ltd.	CIJ Next Co.,Ltd.	1	yakushiji
+145	0	Century Leasing System Co., Ltd.	Century Leasing System Co., Ltd.	1	yakushiji
+146	0	Keio University Media Center Head Office	Keio University Media Center Head Office	1	kumomi
+152	0	Rikei Corporation	Rikei Corporation	1	kumomi
+156	0	Auctech Inc.	Auctech Inc.	1	yakushiji
+163	0	NTT DATA SEKISUI SYSTEMS CORPORATION	NTT DATA SEKISUI SYSTEMS CORPORATION	1	yakushiji
+164	0	Medical Data Vision K.K.	Medical Data Vision K.K.	1	kumomi
+166	0	Maruzen Co., Ltd.	Maruzen Co., Ltd.	1	kumomi
+168	0	IDEA 21	IDEA 21	1	yakushiji
+169	0	Hitachi, Ltd.	Hitachi, Ltd.	1	konki
+171	0	HONDA R&D Co., Ltd. - Wako R&D Center	HONDA R&D Co., Ltd. - Wako R&D Center	1	yakushiji
+173	0	FUJITSU LIMITED	FUJITSU LIMITED	1	kumomi
+175	0	Japan Aviation Electronics Industry, Ltd.	Japan Aviation Electronics Industry, Ltd.	1	yakushiji
+176	0	Shin Nippon Biomedical Laboratories, Ltd.	Shin Nippon Biomedical Laboratories, Ltd.	1	kota
+180	0	Nauka Ltd.	Nauka Ltd.	1	kumomi
+188	0	NTT DATA GROUP	NTT DATA GROUP	1	yakushiji
+190	0	KISSEI COMTEC CO., LTD.	KISSEI COMTEC CO., LTD.	1	kota
+191	0	Nippon Express Co., Ltd.	Nippon Express Co., Ltd.	1	yakushiji
+201	0	EC-One, Inc.	EC-One, Inc.	1	yakushiji
+203	0	Intel K.K.	Intel K.K.	1	kumomi
+204	0	Nippon Truck Co., Ltd.	Nippon Truck Co., Ltd.	1	yakushiji
+213	0	NIWS Co., Ltd.	NIWS Co., Ltd.	1	yakushiji
+216	0	Mizuho Securities Co., Ltd.	Mizuho Securities Co., Ltd.	1	yakushiji
+217	0	NEC Aerospace Systems Ltd.	NEC Aerospace Systems Ltd.	1	yakushiji
+222	0	Nippon Truck Co., Ltd.	Nippon Truck Co., Ltd.	1	yakushiji
+225	0	Hitachi System & Service	Hitachi System & Service	1	konki
+226	0	YAGIMOKU	YAGIMOKU	1	kota
+230	0	Furuno Electric Co., Ltd.	Furuno Electric Co., Ltd.	1	kota
+234	0	CSL	CSL	1	kota
+235	0	NTT Data System Service Corporation	NTT Data System Service Corporation	1	yakushiji
+236	0	Plus-A Co., Ltd	Plus-A Co., Ltd	1	kumomi
+243	0	Vinculum Japan Corporation	Vinculum Japan Corporation	1	yakushiji
+247	0	Japan Association of Medical Infomatics	Japan Association of Medical Infomatics	1	kota
+248	0	Hitachi - Kawasaki	Hitachi - Kawasaki	1	konki
+249	0	Neec System Technology Co., Ltd.	Neec System Technology Co., Ltd.	1	yakushiji
+251	0	QUICK Corp.	QUICK Corp.	1	yakushiji
+256	0	Keio University Media Center Head Office	Keio University Media Center Head Office	1	kumomi
+259	0	HONDA R&D Co., Ltd. - Wako R&D Center	HONDA R&D Co., Ltd. - Wako R&D Center	1	kota
+262	0	Sanyodo Books Co., Ltd.	Sanyodo Books Co., Ltd.	1	kota
+263	0	SEIKO EPSON CORPORATION	SEIKO EPSON CORPORATION	1	kota
+266	0	Works Solutions	Works Solutions	1	kota
+267	0	Macros Japan, Inc.	Macros Japan, Inc.	1	kumomi
+268	0	Fab Solutions Company Limited	Fab Solutions Company Limited	1	yakushiji
+272	0	AEON Integrated Business Service Co., Ltd.	AEON Integrated Business Service Co., Ltd.	1	kota
+275	0	TSR	TSR	1	kumomi
+289	0	MIS Co., Ltd.	MIS Co., Ltd.	1	kumomi
+291	0	Panasonic Electronic Devices Co., Ltd.	Panasonic Electronic Devices Co., Ltd.	1	yakushiji
+293	0	NewLib. Co.	NewLib. Co.	1	yakushiji
+296	0	PBJ Inc.	PBJ Inc.	1	yakushiji
+299	0	Keio University Media Center Head Office	Keio University Media Center Head Office	1	kumomi
+304	0	Soka University	Soka University	1	kumomi
+305	0	Cosmo Medical System Co., Ltd.	Cosmo Medical System Co., Ltd.	1	kumomi
+306	0	TSR	TSR	1	kumomi
+308	0	Max System Consult	Max System Consult	1	kota
+310	0	NTT Bizlink	NTT Bizlink	1	yakushiji
+313	0	MEIDEN KOHSAN CO., LTD.	MEIDEN KOHSAN CO., LTD.	1	yakushiji
+315	0	Plus-A Co., Ltd	Plus-A Co., Ltd	1	kumomi
+320	0	Nippon Express Co., Ltd.	Nippon Express Co., Ltd.	1	yakushiji
+323	0	Japan Association of Medical Informatics	Japan Association of Medical Informatics	1	kota
+324	0	KYUSHU UNIVERSITY	KYUSHU UNIVERSITY	1	yakushiji
+328	0	CME	CME	1	kota
+329	0	Sanyodo Books Co., Ltd.	Sanyodo Books Co., Ltd.	1	kota
+330	0	The University of Aizu	The University of Aizu	1	kota
+331	0	Nippon Jimuki CO., LTD.	Nippon Jimuki CO., LTD.	1	kumomi
+333	0	Chori Com Co., Ltd.	Chori Com Co., Ltd.	1	yakushiji
+334	0	Sophia Inc.	Sophia Inc.	1	kumomi
+335	0	Rikei Corporation	Rikei Corporation	1	kumomi
+339	0	NTT Data Group	NTT Data Group	1	yakushiji
+347	0	Medi Plus	Medi Plus	1	yakushiji
+357	0	AEON Integrated Business Service Co., Ltd.	AEON Integrated Business Service Co., Ltd.	1	kota
+358	0	Bits Co., Ltd.	Bits Co., Ltd.	1	kumomi
+368	0	Fujishoji Co.Ltd	Fujishoji Co.Ltd	1	kumomi
+372	0	ARTHUR Inc.	ARTHUR Inc.	1	kumomi
+373	0	Yamani System Service Corporation	Yamani System Service Corporation	1	kota
+374	0	TKU CO., LTD.	TKU CO., LTD.	1	kumomi
+376	0	KAMIJO MEDICAL INSTRUMENTS, INC.	KAMIJO MEDICAL INSTRUMENTS, INC.	1	kota
+379	0	Win Medical Support Center Inc.	Win Medical Support Center Inc.	1	kumomi
+381	0	Nippon Truck Co., Ltd.	Nippon Truck Co., Ltd.	1	yakushiji
+383	0	UL Systems, Inc.	UL Systems, Inc.	1	yakushiji
+385	0	QUICK Corp.	QUICK Corp.	1	yakushiji
+395	0	NTT Group	NTT Group	1	yakushiji
+396	0	MVB	MVB	1	yakushiji
+399	0	OMRON Corporation	OMRON Corporation	1	kota
+402	0	SUMITA Optical Glass, Inc.	SUMITA Optical Glass, Inc.	1	kota
+403	0	Macros Japan, Inc.	Macros Japan, Inc.	1	kumomi
+407	0	SPREAD	SPREAD	1	kota
+408	0	AEON Integrated Business Service Co., Ltd.	AEON Integrated Business Service Co., Ltd.	1	kota
+409	0	NIHON ADVANCED SYSTEM CO., LTD.	NIHON ADVANCED SYSTEM CO., LTD.	1	kumomi
+412	0	Symbiosis International, Inc.	Symbiosis International, Inc.	1	kota
+415	0	NTT EAST-YAMAGATA Co., Ltd.	NTT EAST-YAMAGATA Co., Ltd.	1	kota
+417	0	AstroStage Inc.	AstroStage Inc.	1	konki
+418	0	Hikida Sangyo Co., Ltd.	Hikida Sangyo Co., Ltd.	1	kota
+421	0	SGI Japan, Ltd.	SGI Japan, Ltd.	1	kumomi
+424	0	QUICK Corp.	QUICK Corp.	1	yakushiji
+425	0	VENDOR SERVICE CO., LTD.	VENDOR SERVICE CO., LTD.	1	yakushiji
+426	0	TAIYO SYSTEM	TAIYO SYSTEM	1	nanbu
+434	0	Soka University	Soka University	1	kumomi
+442	0	Ajinomoto Packaging Corporation	Ajinomoto Packaging Corporation	1	kota
+445	0	Tokyo Healthcare University	Tokyo Healthcare University	1	kota
+447	0	Keio University Media Center Head Office	Keio University Media Center Head Office	1	kota
+457	0	Japan Association of Medical Informatics	Japan Association of Medical Informatics	1	kota
+458	0	Sodachi Hoikuen	Sodachi Hoikuen	1	kumomi
+461	0	Plus-A Co., Ltd	Plus-A Co., Ltd	1	kota
+463	0	Chuo Denshi Kougaku Co., Ltd.	Chuo Denshi Kougaku Co., Ltd.	1	kota
+466	0	Macros Japan, Inc.	Macros Japan, Inc.	1	kumomi
+468	0	NTT Data Group	NTT Data Group	1	yakushiji
+476	0	National Cerebral and Cardiovascular Center	National Cerebral and Cardiovascular Center	1	kota
+479	0	WISEMAN Co.,Ltd.	WISEMAN Co.,Ltd.	1	yakushiji
+481	0	Nippon Jimuki CO., LTD.	Nippon Jimuki CO., LTD.	1	kumomi
+483	0	IC-Solutions.Co.,Ltd	IC-Solutions.Co.,Ltd	1	kumomi
+484	0	Techno Quartz Inc.	Techno Quartz Inc.	1	yakushiji
+486	0	AGREX INC.	AGREX INC.	1	kumomi
+491	0	Soka University	Soka University	1	kumomi
+493	0	AEON Integrated Business Service Co., Ltd.	AEON Integrated Business Service Co., Ltd.	1	kota
+495	0	Kobe City Medical Center General Hospital	Kobe City Medical Center General Hospital	1	nanbu
+500	0	MVB	MVB	1	yakushiji
+515	0	Chori Co., LTD.	Chori Co., LTD.	1	kumomi
+517	0	Japan Association of Medical Informatics	Japan Association of Medical Informatics	1	kota
+523	0	CIJ Next Co., Ltd.	CIJ Next Co., Ltd.	1	kumomi
+525	0	PSP Corporation	PSP Corporation	1	nanbu
+526	0	QUICK Corp.	QUICK Corp.	1	yakushiji
+527	0	CME	CME	1	kumomi
+534	0	Duarcanum, Inc.	Duarcanum, Inc.	1	yakushiji
+540	0	PRO&BSC Inc.	PRO&BSC Inc.	1	yakushiji
+542	0	Macros Japan, Inc.	Macros Japan, Inc.	1	kumomi
+543	0	Duarcanum, Inc.	Duarcanum, Inc.	1	yakushiji
+546	0	Win Medical Support Center Inc.	Win Medical Support Center Inc.	1	kumomi
+548	0	SYSTEX Co., LTD.	SYSTEX Co., LTD.	1	kota
+550	0	Keyware Solutions Inc.	Keyware Solutions Inc.	1	konki
+552	0	Sophia Inc.	Sophia Inc.	1	kumomi
+555	0	AGREX INC.	AGREX INC.	1	kumomi
+556	0	Tokyo Healthcare University	Tokyo Healthcare University	1	kota
+559	0	MVB	MVB	1	yakushiji
+561	0	TAIYO SYSTEM	TAIYO SYSTEM	1	nanbu
+563	0	TKU CO., LTD.	TKU CO., LTD.	1	kumomi
+564	0	SATT, Inc.	SATT, Inc.	1	kumomi
+575	0	NTT Data Group	NTT Data Group	1	yakushiji
+577	0	NTT EAST-YAMAGATA Co., Ltd.	NTT EAST-YAMAGATA Co., Ltd.	1	kota
+580	0	Soka University	Soka University	1	kumomi
+585	0	Bits Co., Ltd.	Bits Co., Ltd.	1	kumomi
+586	0	Bits Co., Ltd.	Bits Co., Ltd.	1	kumomi
+591	0	Harbor Software Co.	Harbor Software Co.	1	nanbu
+593	0	Yokohama Silver Plaza	Yokohama Silver Plaza	1	konki
+595	0	NewLib. Co.	NewLib. Co.	1	yakushiji
+604	0	AEON Integrated Business Service Co., Ltd.	AEON Integrated Business Service Co., Ltd.	1	kota
+605	0	Hitachi, Ltd.	Hitachi, Ltd.	1	konki
+612	0	MED-1Asia Co., Ltd.	MED-1Asia Co., Ltd.	1	kumomi
+615	0	Chori Co., LTD.	Chori Co., LTD.	1	yakushiji
+616	0	Plus-A Co., Ltd	Plus-A Co., Ltd	1	kumomi
+617	0	Jichi Medical University	Jichi Medical University	1	yakushiji
+619	0	UNIADEX, Ltd.	UNIADEX, Ltd.	1	kota
+620	0	Keyware Solutions Inc.	Keyware Solutions Inc.	1	konki
+625	0	CIJ Next Co., Ltd.	CIJ Next Co., Ltd.	1	kumomi
+628	0	ICS Co.,Ltd.	ICS Co.,Ltd.	1	kumomi
+629	0	Hitachi Procurement Service Co., Ltd.	Hitachi Procurement Service Co., Ltd.	1	konki
+631	0	WISEMAN Co.Ltd.	WISEMAN Co.Ltd.	1	yakushiji
+632	0	CME	CME	1	kumomi
+633	0	QUICK Corp.	QUICK Corp.	1	yakushiji
+634	0	Hokkaido University	Hokkaido University	1	konki
+638	0	MAIN CORPORATION	MAIN CORPORATION	1	yakushiji
+640	0	Japan Association of Medical Informatics	Japan Association of Medical Informatics	1	kota
+641	0	Kansai Univ. of Welfare Sciences Takahasi Lab.	Kansai Univ. of Welfare Sciences Takahasi Lab.	1	kota
+642	0	MEDIPLUS	MEDIPLUS	1	yakushiji
+646	0	Systembit Co., Ltd.	Systembit Co., Ltd.	1	kumomi
+647	0	AGREX INC.	AGREX INC.	1	kumomi
+649	0	KYOCERA Communication Systems Co., Ltd.	KYOCERA Communication Systems Co., Ltd.	1	konki
+650	0	Sophia Inc.	Sophia Inc.	1	kota
+655	0	TAIYO SYSTEM	TAIYO SYSTEM	1	nanbu
+659	0	SATT, Inc.	SATT, Inc.	1	kumomi
+660	0	Medical IT Laboratory	Medical IT Laboratory	1	nanbu
+661	0	National Cerebral and Cardiovascular Center	National Cerebral and Cardiovascular Center	1	kota
+664	0	Gunma University Hospital	Gunma University Hospital	1	konki
+669	0	NTT EAST-YAMAGATA Co., Ltd.	NTT EAST-YAMAGATA Co., Ltd.	1	yakushiji
+673	0	Win Medical Support Center Inc.	Win Medical Support Center Inc.	1	kumomi
+676	0	NTT Data Group	NTT Data Group	1	yakushiji
+677	0	Club Tourism International Inc.	Club Tourism International Inc.	1	yakushiji
+680	0	Hitachi Procurement Service Co., Ltd.	Hitachi Procurement Service Co., Ltd.	1	konki
+682	0	AEON Integrated Business Service Co., Ltd.	AEON Integrated Business Service Co., Ltd.	1	kota
+687	0	Macros Japan, Inc.	Macros Japan, Inc.	1	kumomi
+688	0	MVB	MVB	1	yakushiji
+691	0	FUJITSU LIMITED	FUJITSU LIMITED	1	kumomi
+693	0	NEC Solution Innovators, Ltd.	NEC Solution Innovators, Ltd.	1	konki
+698	0	MED-1Asia Co., Ltd.	MED-1Asia Co., Ltd.	1	kota
+700	0	Duarcanum, Inc.	Duarcanum, Inc.	1	yakushiji
+701	0	Systembit Co., Ltd.	Systembit Co., Ltd.	1	kumomi
+702	0	Plus-A Co., Ltd	Plus-A Co., Ltd	1	kumomi
+705	0	NewLib. Co.	NewLib. Co.	1	yakushiji
+707	0	Chori Co., LTD.	Chori Co., LTD.	1	yakushiji
+709	0	QUICK Corp.	QUICK Corp.	1	yakushiji
+713	0	CIJ Next Co., Ltd.	CIJ Next Co., Ltd.	1	kumomi
+716	0	Tokyo Healthcare University	Tokyo Healthcare University	1	kota
+724	0	Soka University	Soka University	1	kumomi
+730	0	Keyware Solutions Inc.	Keyware Solutions Inc.	1	konki
+734	0	Bits Co., Ltd.	Bits Co., Ltd.	1	kumomi
+735	0	Club Tourism International Inc.	Club Tourism International Inc.	1	yakushiji
+738	0	NEC Corporation	NEC Corporation	1	konki
+743	0	Macros Japan, Inc.	Macros Japan, Inc.	1	kumomi
+750	0	Next Arise	Next Arise	1	kota
+751	0	Systembit Co., Ltd.	Systembit Co., Ltd.	1	kumomi
+755	0	Hiroshima Red Cross Hospital & Atomatic-Bomb Survivors Hospital	Hiroshima Red Cross Hospital & Atomatic-Bomb Survivors Hospital	1	konki
+756	0	Japan Association of Medical Informatics	Japan Association of Medical Informatics	1	kota
+759	0	SATT, Inc.	SATT, Inc.	1	kumomi
+764	0	TOSHIBA INFORMATION SYSTEMS CORPORATION	TOSHIBA INFORMATION SYSTEMS CORPORATION	1	yakushiji
+765	0	NTT Data Group	NTT Data Group	1	yakushiji
+771	0	NTT DATA TERANOS CORPORATION	NTT DATA TERANOS CORPORATION	1	yakushiji
+772	0	Win Medical Support Center Inc.	Win Medical Support Center Inc.	1	kumomi
+778	0	SYSMEX CORPORATION	SYSMEX CORPORATION	1	nanbu
+784	0	AEON Integrated Business Service Co., Ltd.	AEON Integrated Business Service Co., Ltd.	1	kota
+788	0	MED-1Asia Co., Ltd.	MED-1Asia Co., Ltd.	1	kumomi
+790	0	UNIADEX, Ltd.	UNIADEX, Ltd.	1	kota
+792	0	Plus-A Co., Ltd	Plus-A Co., Ltd	1	kumomi
+799	0	QUICK Corp.	QUICK Corp.	1	yakushiji
+801	0	CIJ Next Co., Ltd.	CIJ Next Co., Ltd.	1	kumomi
+804	0	Soka University	Soka University	1	kumomi
+808	0	Japan Association of Medical Informatics	Japan Association of Medical Informatics	1	kota
+815	0	MVB	MVB	1	yakushiji
+816	0	Murata Systems, Ltd.	Murata Systems, Ltd.	1	yakushiji
+818	0	OK Corporation	OK Corporation	1	yakushiji
+821	0	Duarcanum, Inc.	Duarcanum, Inc.	1	yakushiji
+824	0	Canon Medical Systems Corporation	Canon Medical Systems Corporation	1	konki
+825	0	LEAD Co.,Ltd.	LEAD Co.,Ltd.	1	konki
+828	0	NTT Data Group	NTT Data Group	1	yakushiji
+829	0	Chori Co., LTD.	Chori Co., LTD.	1	yakushiji
+835	0	TOSHIBA INFORMATION SYSTEMS CORPORATION	TOSHIBA INFORMATION SYSTEMS CORPORATION	1	kota
+837	0	Tokyo Healthcare University	Tokyo Healthcare University	1	kota
+839	0	MEDICINA, Inc.	MEDICINA, Inc.	1	kota
+842	0	Hitachi Procurement Service Co., Ltd.	Hitachi Procurement Service Co., Ltd.	1	konki
+846	0	SCAM	SCAM	1	kota
+847	0	NewLib. Co.	NewLib. Co.	1	kumomi
+855	0	SYSMEX CORPORATION	SYSMEX CORPORATION	1	nanbu
+859	0	Hitachi Solutions West Japan, Ltd.	Hitachi Solutions West Japan, Ltd.	1	konki
+862	0	QUICK Corp.	QUICK Corp.	1	yakushiji
+865	0	Club Tourism International Inc.	Club Tourism International Inc.	1	yakushiji
+871	0	Fujishoji Co.Ltd	Fujishoji Co.Ltd	1	kumomi
+874	0	Soka University	Soka University	1	kumomi
+875	0	Osaka Kessei Research Laboratories, Inc.	Osaka Kessei Research Laboratories, Inc.	1	kota
+876	0	AEON Integrated Business Service Co., Ltd.	AEON Integrated Business Service Co., Ltd.	1	kota
+879	0	SATT, Inc.	SATT, Inc.	1	kumomi
+884	0	DXC Technology Japan, Ltd.	DXC Technology Japan, Ltd.	1	yakushiji
+886	0	Win Medical Support Center Inc.	Win Medical Support Center Inc.	1	kumomi
+890	0	MEDICINA, Inc.	MEDICINA, Inc.	1	kota
+894	0	AGREX INC.	AGREX INC.	1	kumomi
+896	0	MVB	MVB	1	yakushiji
+900	0	Duarcanum, Inc.	Duarcanum, Inc.	1	yakushiji
+903	0	Mitsui E&S Systems Research Inc.	Mitsui E&S Systems Research Inc.	1	kota
+906	0	Kobe City Medical Center General Hospital	Kobe City Medical Center General Hospital	1	nanbu
+910	0	Chori Co., LTD.	Chori Co., LTD.	1	yakushiji
+911	0	Macros Japan, Inc.	Macros Japan, Inc.	1	kumomi
+917	0	Chiba Foundation for Health Promotion & Disease Prevention	Chiba Foundation for Health Promotion & Disease Prevention	1	konki
+920	0	Japan Association of Medical Informatics	Japan Association of Medical Informatics	1	kota
+921	0	Cosmotec Patent Information Systems Inc.	Cosmotec Patent Information Systems Inc.	1	kota
+922	0	Tokyo Healthcare University	Tokyo Healthcare University	1	kota
+925	0	Hitachi Procurement Service Co., Ltd.	Hitachi Procurement Service Co., Ltd.	1	konki
+927	0	Japan College of Rheumatology	Japan College of Rheumatology	1	kota
+932	0	CIJ Next Co., Ltd.	CIJ Next Co., Ltd.	1	kumomi
+936	0	Hitachi Solutions West Japan, Ltd.	Hitachi Solutions West Japan, Ltd.	1	konki
+942	0	VIAMS Inc.	VIAMS Inc.	1	yakushiji
+948	0	SYSMEX CORPORATION	SYSMEX CORPORATION	1	nanbu
+952	0	Win Medical Support Center Inc.	Win Medical Support Center Inc.	1	kumomi
+955	0	Kobe City Medical Center General Hospital	Kobe City Medical Center General Hospital	1	nanbu
+958	0	Soka University	Soka University	1	kumomi
+959	0	TKU CO., LTD.	TKU CO., LTD.	1	kumomi
+965	0	Duarcanum, Inc.	Duarcanum, Inc.	1	yakushiji
+971	0	CTC TECHNOLOGY Corporation	CTC TECHNOLOGY Corporation	1	kota
+972	0	Chori Co., LTD.	Chori Co., LTD.	1	yakushiji
+978	0	Chuo University	Chuo University	1	kota
+979	0	Hitachi Procurement Service Co., Ltd.	Hitachi Procurement Service Co., Ltd.	1	konki
+980	0	Tokyo Healthcare University	Tokyo Healthcare University	1	kota
+981	0	Sanritsu	Sanritsu	1	konki
+982	0	MVB	MVB	1	yakushiji
+985	0	CIJ Next Co., Ltd.	CIJ Next Co., Ltd.	1	kumomi
+987	0	Chori Co., LTD.	Chori Co., LTD.	1	yakushiji
+988	0	MEDICINA, Inc.	MEDICINA, Inc.	1	kumomi
+991	0	Japan Association of Medical Informatics	Japan Association of Medical Informatics	1	kota
+996	0	Jichi Medical University	Jichi Medical University	1	yakushiji
+999	0	Club Tourism International Inc.	Club Tourism International Inc.	1	yakushiji
+1000	0	Fujishoji Co.Ltd	Fujishoji Co.Ltd	1	kumomi
+1005	0	Japan College of Rheumatology	Japan College of Rheumatology	1	kota
+1008	0	D.A.Consortium Inc.	D.A.Consortium Inc.	1	kota
+1011	0	Olympus Corporation	Olympus Corporation	1	kota
+1012	0	MVB	MVB	1	yakushiji
+1013	0	Duarcanum, Inc.	Duarcanum, Inc.	1	yakushiji
+1016	0	Tokyo Healthcare University	Tokyo Healthcare University	1	kota
+1018	0	CIJ Next Co., Ltd.	CIJ Next Co., Ltd.	1	kumomi
+1019	0	SATT, Inc.	SATT, Inc.	1	kumomi
+1022	0	Hitachi Procurement Service Co., Ltd.	Hitachi Procurement Service Co., Ltd.	1	konki
+1026	0	Fujishoji Co.Ltd	Fujishoji Co.Ltd	1	kumomi
+1028	0	Japan College of Rheumatology	Japan College of Rheumatology	1	kota

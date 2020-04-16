@@ -1,0 +1,17 @@
+2003	Organization,Purachase,Support,Amount
+2004	Organization,Purchase,Support,Rental,Training,Consulting,Other,Amount
+2005	NO,Organization,LicenseCore,ServiceCore,Rental,Consulting,Training,Other,Total
+2006	NO,Organization,LicenseCore,ServiceCore,Rental,Training,Total
+2007	NO,Organization,LicenseCore,ServiceCore,Rental,SubscCore,Training,Total,,
+2008	NO,Organization,LicenseCore,ServiceCore,Rental,SubscCore,Training,Total
+2009	NO,Organization,LicenseCore,ServiceCore,Rental,SubscCore,Training,Other,Total
+2010	NO,Organization,LicenseCore,ServiceCore,Rental,SubscCore,Training,Total
+2011	No,Organization,LicenseCore,ServiceCore,Rental,SubscCore,Training,Total,,,,,,,,,,,,,,,
+2012	No,Organization,LicenseCore,ServiceCore,SubscCore,Training,Total
+2013	No,Organization,,LicenseCore,ServiceCore,SubscCore,Training,SubTotal
+2014	No,Organization,LicenseCore,ServiceCore,SubscCore,Training,Total
+2015	No,Organization,Noop,LicenseCore,ServiceCore,SubscCore,Training,Total
+2016	No,SalesRep,Organization,LicenseCore,ServiceCore,SubscCore,Training,Total
+2017	Organization,LicenseCore,ServiceCore,SubscCore,Training,Total
+2018	Branch,SalesRep,Organization,Noop,LicenseCore,ServiceCore,SubscCore,Training,Total
+2019	No,Organization,Noop,LicenseCore,ServiceCore,SubscCore,Training,Total,
